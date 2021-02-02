@@ -1,0 +1,8 @@
+Customer Details, Martin, 094567, customer@Martin, St. Martin
+Project Details, 2, Maartenville, Townhouse, Johannersburg 10, 33, 4000.0, 2000.0, 3-3-2021
+Architect Details, Swaun, 098342, architect@Shawn, Cape Town
+Contractor Details, Paul, 098234, contractor@Paul, Paultown
+Customer Details, Mike, 09456, customer@Mike, California
+Project Details, 3, Mikeburg, House, California, 55, 1000000.0, 750000.0, 7-5-2021
+Architect Details, Quinton, 9875, @Quinville, Quintown
+Contractor Details, Craig, 21345, contractor@Craig, Newtown
